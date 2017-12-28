@@ -1,0 +1,13 @@
+
+#+TITLE: Automating the generation of eslint reports
+#+LINK: NPM https://www.npmjs.com/package/
+#+LINK: GH https://github.com/
+
+* Overview
+
+  When you first introduce linting tools liked [[https://eslint.org/][eslint]] in an existing project, you
+may have to deal with the big amount of issues. This use case is described
+and addressed in [[GH:IanVS/eslint-nibble]] , but, being fond of git,
+I'd like to trace the work done, and make sure nothing gets broken in the
+process. This precaution will likely be much appreciated when you'll submit
+your pull request upstream.
